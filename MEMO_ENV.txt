@@ -1,0 +1,5 @@
+[JAVA_HOME] IS D:\PROGS\DEVSCALA\jdk-14.0.1
+[SCALA_HOME] IS D:\PROGS\DEVSCALA\scala-2.13.2
+[SBT_HOME] IS D:\PROGS\DEVSCALA\sbt
+[SBT_OPTS] IS -XX:ReservedCodeCacheSize=256m -Dsbt.log.format=true -Dsbt.global.base=D:\PROGS\DEVSCALA\\.sbt\ -Dsbt.ivy.home=D:\PROGS\DEVSCALA\\.ivy\ -Divy.home=D:\PROGS\DEVSCALA\\.ivy\  -Dcoursier.cache=D:\PROGS\DEVSCALA\.coursier -Dsbt.coursier.cache=D:\PROGS\DEVSCALA\.coursier -Dsbt.coursierCache=D:\PROGS\DEVSCALA\.coursier -DcoursierCache=D:\PROGS\DEVSCALA\.coursier -Duser.home=D:\PROGS\DEVSCALA
+[COURSIER_CACHE] IS D:\PROGS\DEVSCALA\.coursier

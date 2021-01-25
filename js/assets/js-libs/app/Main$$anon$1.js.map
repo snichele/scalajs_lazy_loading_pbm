@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "Main$$anon$1.js",
+"mappings": ";;AAIM,mB;AAAA,SAAA,gBAAA;EACAA,OAAA,CAAA,4BAAA,GAAA,qCAAA,EAAY,CAAA,IAAA,CAAC,2BAAD,CADZ;C;AAAA,SAAA,gBAAA,sB;AAAA,gBAAA,CAAA,SAAA,OAAAA,OAAA,CAAA,IAAA,E;AAAA,gBAAA,CAAA,SAAA,CAAA,WAAA,GAAA,gB;AAAA,mB;AAAA,SAAA,gBAAA;;C;AAAA,SAAA,gBAAA,sB;AAAA,gBAAA,CAAA,SAAA,GAAA,gBAAA,CAAA,S;AAAA,gBAAA,CAAA,SAAA,CAGAC,oBAHA,aAGe,CAHf;EAIA,QAAF,CAAE,MAJA;E;AAAA,IAAA,gBAAA,OAAAD,OAAA,CAAA,SAAA,GAAA,SAAA;EAAA,aAAA;;EAAA,aAAA;EAAA,CAAA;E;AAAA,SAAA,gBAAA,sB;AAAA,gBAAA,CAAA,SAAA,CAAA,UAAA,GAAA,gB;ACWmC,SAAAE,mCAAA;EACF,OAAjC,IAAA,gBAAA,EAAiC,CAAA,oBAAA,CAAC,CAAD,CADE;C;AAAA,SAAAA,mCAAA,yC;",
+"sources": ["file:///D:/DATAS/PROJECTS/training-cursus/100%20-%20scala/scala-js_demo_project_pbm/js/src/main/scala/HeavyFeature.scala", "file:///D:/DATAS/PROJECTS/training-cursus/100%20-%20scala/scala-js_demo_project_pbm/js/src/main/scala/Main.scala"],
+"names": ["main", "doHeavyFeature", "dynamicImport$"],
+"lineCount": 30
+}

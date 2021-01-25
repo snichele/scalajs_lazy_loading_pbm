@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Scala-js demo project.</title>
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+  <style>
+
+      html, body {
+          background-color: #eee;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+      }
+
+      div {
+          margin: 0;
+          padding: 0;
+      }
+
+      div#main {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          color: #432f09;
+      }
+
+  </style>
+</head>
+
+<body>
+
+<div id="main">
+
+</div>
+
+<!--
+  This is ES module loading, require a capable browser.
+-->
+
+<script type="module">
+    import {Main} from "./assets/js-libs/app/main.js";
+
+    Main.runApp();
+</script>
+</body>
+
+</html>
